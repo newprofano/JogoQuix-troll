@@ -177,7 +177,7 @@ public class TheQuest2 extends javax.swing.JFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(null, "Não, eu não tenho 21 anos");
+        JOptionPane.showMessageDialog(null, "Não, Esta não a certa, assim espero rs");
         new TheGameOver().setVisible(true);
         dispose();
     }//GEN-LAST:event_jButton4ActionPerformed
